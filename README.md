@@ -3,7 +3,7 @@ Analyzing Weather Condtions
 
 Overview
 
-In this project, we are analyzing datasets for weather in Oahu, Hawaii. We are planning to open a store that sells surfboards and ice cream, but will need investor backing. The investor, W. Avy, would like weather data analyzed to determine if this is a good company for him to invest in. The main concern is about if the temperatures and if this company is sustainable to be in business year-round.
+In this project, we are analyzing datasets for weather in Oahu, Hawaii. We are planning to open a store that sells surfboards and ice cream, but will need investor backing. The investor, W. Avy, would like weather data analyzed to determine if this is a good company for him to invest in. The main concern is about how the temperature differs in certain seasons and if this company is sustainable to be in business year-round.
 
 Results
 
